@@ -3,26 +3,26 @@
 
 PATH = 'content'
 
-TIMEZONE = 'Asia/Bangkok'
+TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = 'en'
 
-THEME = '/site/theme'
+THEME = 'theme'
 
-AUTHOR = 'Vu Dao'
+AUTHOR = 'Karl Stich'
 
 SITENAME = 'My Resume'
 
 #Profile information
-NAME = 'Vu Dao'
-TAGLINE = 'Senior Devops Engineer'
+NAME = 'Karl-Johannes Stich'
+TAGLINE = 'Senior Consultant & Cloud Architect'
 PIC = 'profile.png'
 
 #sidebar links
-EMAIL = 'mail@gmail.com'
-PHONE = '(+84) 933333333'
-LINKEDIN = 'vu-dao-9280ab43'
-GITHUB = 'vumdao'
+EMAIL = 'stich.karl@gmail.com'
+PHONE = '(+49) 1631645275'
+LINKEDIN = 'karlstich'
+GITHUB = 'a427538'
 
 CAREER_SUMMARY = 'Deep understanding in developing and maintaining applications running on AWS Cloud Services and Virtualization (Docker, k8s, vagrant, KVM, VirtualBox). Strong experience in Automation as well as CI/CD (Gitlab/Jenkins), monitoring and site-reliability.'
 
@@ -100,6 +100,10 @@ PROJECTS = [
 ]
 
 LANGUAGES = [
+	{
+		'name': 'German',
+		'description': 'Mothertoung'
+	},
 	{
 		'name': 'English',
 		'description': 'Professional'
