@@ -57,10 +57,22 @@ CLOUDS = 'EC2, EFS, EKS, ECR, IAM, KMS, Lambda, RDS, Route53, S3, SQS, SNS, SES'
 
 EXPERIENCES = [
 	{
-		'job_title': 'Experience Software Developer',
-		'time': 'Jul 2011 – Mar 2017',
-		'company': 'DEK Technologies',
-		'details': 'Develop Multi-blade service configuration and Multi-blade software management based on OpenSAF source code which provides high availability and auto-scaling. Develop and maintain CI/CD system using jenkins, write function test (Java core framework) and system test (python) for feature developmetns and main requests'	
+		'job_title': 'Cloud Architect',
+		'time': 'Nov 2019 – PRESENT',
+		'company': 'AtoS Information Technology GmbH',
+		'details': '- Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT\n- Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use'	
+	},	
+	{
+		'job_title': 'Senior Consultant',
+		'time': 'Aug 2011 – Oct 2019',
+		'company': 'AtoS Information Technology GmbH',
+		'details': '- Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT\n- Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use'	
+	},
+		{
+		'job_title': 'Senior Consultant',
+		'time': 'Jun 2007 – Jul 2011',
+		'company': 'Siemens AG (Siemens IT Solution and Services)',
+		'details': '- Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT\n- Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use'	
 	}
 ]
 
