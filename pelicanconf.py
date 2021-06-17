@@ -14,8 +14,8 @@ AUTHOR = 'Karl Stich'
 SITENAME = 'My Resume'
 
 #Profile information
-NAME = 'Karl-Johannes Stich'
-TAGLINE = 'Senior Consultant & Cloud Architect'
+NAME = 'Karl Stich'
+TAGLINE = 'Cloud Architect'
 PIC = 'profile.png'
 
 #sidebar links
@@ -30,30 +30,31 @@ SKILLS = [
 	{
 		'type': 'LANGUAGES',
 		'list': [
-			'Python, Bash Shell, Java, Ruby'
+			'Bash Shell, Java, Python, PHP, HCL, YAML, JSON'
 		]
 	},
 	{
 		'type': 'FRAMEWORKS',
 		'list': [
-			'Aws/Chalice (Allow to quickly create and deploy applications that use AWS Lambda.)',
-			'AWS Cloud Development Kit (AWS CDK)',
-			'Boto3, psycopg2, slackbot, redis, kubernetes, pyinotify, lxml, kafka, flask, smtplib, threading, requests, etc.'
+			'Google Cloud Architecture Framework',
+			'Sparx Systems Enterprise Architect',
+			'kubernetes, Red Hat Openshift, k3s, etc.'
 		]
 	},
 	{
-		'type': 'TOOL',
+		'type': 'TOOLS',
 		'list': [
-			'Postgresql, Redis, Cassandra, pgAdmin, pgbarman, MongoDB',
-			'Gitlab, Github, Gerrit, Jenkins, Ansible, Portainer, Traefic',
-			'ElasticSearch, Kibana, Fluentd, Datadog, Grafana, Zabbix, Glowroot',
-			'Kafka, SorlCloud, SystemD',
-			'Jira, '
+			'Postgresql, MariaDB, MySQL, MongoDB, Redis, Cassandra, pgAdmin',
+			'VSCode, Gitlab, Github, Jenkins, Ansible, Terraform, Portainer, Traefic',
+			'ElasticSearch, Splunk, Kibana, Fluentd/Fluentbit, Grafana, InfluxDB, Prometheus',
+			'Bitbucket, Bamboo, Jira, Confluence'
 		]
 	}
 ]
 
-CLOUDS = 'EC2, EFS, EKS, ECR, IAM, KMS, Lambda, RDS, Route53, S3, SQS, SNS, SES'
+GOOGLE = 'Compute Engine, Cloud Storage, Cloud Run'
+
+AWS = 'EC2, EFS, EKS, ECR, IAM, KMS, Lambda, RDS, Route53, S3, SQS, SNS, SES'
 
 EXPERIENCES = [
 	{
