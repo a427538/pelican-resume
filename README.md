@@ -1,5 +1,3 @@
-{% github vumdao/pelican-resume %}
-
 **Quick Run** `./run.sh`
 ```
 sed -i 's/THEME = .*'/THEME = "theme"/g'
@@ -27,4 +25,4 @@ cdk deploy '*'
 [Web stack cdk code] (https://github.com/vumdao/pelican-resume/blob/master/web_stack/web_stack/web_stack_stack.py)
 
 ## Demo
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/0j37kjhdei9no3lhp1iu.png)
+![Alt Text](https://sample.png)
