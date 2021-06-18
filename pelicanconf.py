@@ -24,6 +24,8 @@ PHONE = '(+49) 1631645275'
 LINKEDIN = 'karlstich'
 GITHUB = 'a427538'
 
+GITHUB_URL = 'https://github.com/a427538/pelican-resume'
+
 CAREER_SUMMARY = 'Deep understanding in developing and maintaining applications running on AWS Cloud Services and Virtualization (Docker, k8s, vagrant, KVM, VirtualBox). Strong experience in Automation as well as CI/CD (Gitlab/Jenkins), monitoring and site-reliability.'
 
 SKILLS = [
