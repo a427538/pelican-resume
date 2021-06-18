@@ -1,5 +1,3 @@
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/lxa725f5clysj5aawcxt.png)
-
 {% github vumdao/pelican-resume %}
 
 **Quick Run** `./run.sh`
