@@ -54,7 +54,7 @@ SKILLS = [
 	}
 ]
 
-GOOGLE = 'Compute Engine, Cloud Storage, Cloud Run'
+GOOGLE = 'Compute Engine, Cloud Storage, Cloud Build, Cloud Run, Cloud Functions'
 
 AWS = 'EC2, EFS, EKS, ECR, IAM, KMS, Lambda, RDS, Route53, S3, SQS, SNS, SES'
 
@@ -72,13 +72,19 @@ EXPERIENCES = [
 		'job_title': 'Senior Consultant',
 		'time': 'Aug 2011 – Oct 2019',
 		'company': 'AtoS Information Technology GmbH',
-		'details': '- Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT\n- Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use'	
+		'details': '<ul>\
+            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
+            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            </ul>'
 	},
 		{
 		'job_title': 'Senior Consultant',
 		'time': 'Jun 2007 – Jul 2011',
 		'company': 'Siemens AG (Siemens IT Solution and Services)',
-		'details': '- Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT\n- Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use'	
+		'details': '<ul>\
+            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
+            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            </ul>'
 	}
 ]
 
