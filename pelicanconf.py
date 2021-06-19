@@ -26,13 +26,16 @@ GITHUB = 'a427538'
 
 GITHUB_URL = 'https://github.com/a427538/pelican-resume'
 
-CAREER_SUMMARY = 'Deep understanding in developing and maintaining applications running on AWS Cloud Services and Virtualization (Docker, k8s, vagrant, KVM, VirtualBox). Strong experience in Automation as well as CI/CD (Gitlab/Jenkins), monitoring and site-reliability.'
+CAREER_SUMMARY = 'Current Cloud Architect at AtoS. An enthusisiastic veteran, 25+ years of advanced Linux experience, hungry to embracing open source software.\
+                  Participant at Red Hat Partner Enablement Openshift Curriculum (Consultant Track), advanced knowledge of private, public and hybrid clouds.\
+                  Deep understanding in deploying and maintaining applications running on Google Cloud Platform and AWS Cloud Services as well as Container Runtime Environments (Openshift, kubernetes, docker).\
+                  Strong experience in Automation (ansible/terraform) as well as CI/CD (Gitlab/Jenkins), monitoring and site-reliability.'
 
 SKILLS = [
 	{
 		'type': 'LANGUAGES',
 		'list': [
-			'Bash Shell, Java, Python, PHP, HCL, YAML, JSON'
+			'Bash Shell, Java, Python, , JS, PHP, HCL, YAML, JSON'
 		]
 	},
 	{
@@ -54,7 +57,7 @@ SKILLS = [
 	}
 ]
 
-GOOGLE = 'Compute Engine, Cloud Storage, Cloud Build, Cloud Run, Cloud Functions'
+GOOGLE = 'Compute Engine, Cloud Storage, Cloud Build, Cloud Run, Cloud Functions, IAM'
 
 AWS = 'EC2, EFS, EKS, ECR, IAM, KMS, Lambda, RDS, Route53, S3, SQS, SNS, SES'
 
@@ -105,25 +108,13 @@ PROJECTS = [
 	{
 		'title': 'Alarm/Alert System',
 		'tagline': {
-			'Develop tools with Slack Webhook Integration to monitor product services such as alarm database, alarm renewal certification, service up/down and auto-healing',
-			'Monitor replication lag and blocking queries in database',
-			'Ensure all Kuberbenets statefulset pods of a service not in same worker node',
-			'Alarm and auto-healling core services also important customers sites',
-			'Using open source brotandgames /ciao (in Ruby) to health check endpoint URL such as custom domains, API, Zappier, Marketplace, etc.',
-			'Monitor scheduled events such as building reports (Business intelligence), alert and auto healing for failed services due to race conditions or system unstable.',
-			'Daily scan all ports in AWS Security groups to ensure no open ports to the world except port 80 and 443'
+			'Develop tools with Slack Webhook Integration to monitor product services such as alarm database, alarm renewal certification, service up/down and auto-healing'
 		}
 	},
 	{
 		'title': 'High Availability Core MiddleWare Application',
 		'tagline': {
-			'Develop Multi-blade service configuration and Multi-blade software management based on OpenSAF source code which provides high availability.',
-			'Develop Scale out/in multiple blades feature based on a template node.',
-			'Trouble shooting and resolve bugs for correction packages. Plus Schedule delivery project versions to customers. Manage product store (GASK, FTP, PIwin, X-CI, Artifactory).',
-			'Analysis and implement requirements/features from customers and responsible for continuous integration and product quality.',
-			'Develop and maintain test cases and framework of Function test and System test (JCAT R2/R5 framework) and responsible for CI/CD Jenkins (Eiffel). Support BlueTrain, RDA and LCT, these ones perform regression test for all components in CBA.',
-			'Perform all regression tests and light component tests (LCT) for CP versions.',
-			'Mentor new members and provide training courses to new comers, share new techniques/ project features.'
+			'Develop Multi-blade service configuration and Multi-blade software management based on OpenSAF source code which provides high availability.'
 		}
 	}
 ]
@@ -131,7 +122,7 @@ PROJECTS = [
 LANGUAGES = [
 	{
 		'name': 'German',
-		'description': 'Mothertounge'
+		'description': 'Mother tongue'
 	},
 	{
 		'name': 'English',
@@ -140,6 +131,6 @@ LANGUAGES = [
 ]
 
 INTERESTS = [
-	'Yoga',
-	'Running'
+	'General Aviation',
+	'Music - Soul-Musician (Trumpet) in various Rhythm \'n Soul Bands'
 ]
