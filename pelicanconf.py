@@ -63,10 +63,8 @@ EXPERIENCES = [
 		'job_title': 'Cloud Architect',
 		'time': 'Nov 2019 – PRESENT',
 		'company': 'AtoS Information Technology GmbH',
-		'details': '<ul>\
-            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
-            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
-            </ul>'	
+		'details': '<li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
+                    <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>'	
 	},	
 	{
 		'job_title': 'Senior Consultant',
@@ -91,7 +89,7 @@ EXPERIENCES = [
 EDUCATIONS = [
 	{
 		'degree': 'Earned Credits towards state examination, first degree\
-        <ul><li>Course of study in teaching geography and music</li></ul>',
+        <li>Course of study in teaching geography and music</li>',
 		'meta': 'Paderborn University',
 		'time': 'Oct 1988 - May 1992'
 	},
