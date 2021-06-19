@@ -90,6 +90,12 @@ EXPERIENCES = [
 
 EDUCATIONS = [
 	{
+		'degree': 'Earned Credits towards state examination, first degree\
+        <ul><li>Course of study in teaching geography and music</li></ul>',
+		'meta': 'Paderborn University',
+		'time': 'Oct 1988 - May 1992'
+	},
+    	{
 		'degree': 'Bachelor\'s degree, Telecommunications Engineering',
 		'meta': 'HCMC Uniersity of Technology',
 		'time': '2006 - 2011'
@@ -126,7 +132,7 @@ PROJECTS = [
 LANGUAGES = [
 	{
 		'name': 'German',
-		'description': 'Mothertoung'
+		'description': 'Mothertounge'
 	},
 	{
 		'name': 'English',
