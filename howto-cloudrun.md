@@ -1,5 +1,7 @@
 Steps:
 
+### Generate pelican Build Image
+[https://github.com/GoogleCloudPlatform/cloud-builders-community/blob/master/pelican/README.md](https://github.com/GoogleCloudPlatform/cloud-builders-community/blob/master/pelican/README.md)
 
 ### Generate Build output
 

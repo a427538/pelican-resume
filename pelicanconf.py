@@ -11,7 +11,7 @@ THEME = 'theme'
 
 AUTHOR = 'Karl Stich'
 
-SITENAME = 'My Resume'
+SITENAME = 'Resume Karl Stich'
 
 #Profile information
 NAME = 'Karl Stich'
@@ -63,7 +63,10 @@ EXPERIENCES = [
 		'job_title': 'Cloud Architect',
 		'time': 'Nov 2019 – PRESENT',
 		'company': 'AtoS Information Technology GmbH',
-		'details': '- Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT\n- Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use'	
+		'details': '<ul>\
+            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
+            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            </ul>'	
 	},	
 	{
 		'job_title': 'Senior Consultant',
