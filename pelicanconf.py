@@ -88,15 +88,16 @@ EXPERIENCES = [
 
 EDUCATIONS = [
 	{
-		'degree': 'Earned Credits towards state examination, first degree\
+		'degree': 'Earned credits towards state examination, first degree\
         <ul class="list-unstyled interests-list"><div class="time"><p class="text-light"><li>Course of study in teaching geography and music</li></p></div></ul>',
 		'meta': 'Paderborn University',
 		'time': 'Oct 1988 - May 1992'
 	},
-    	{
-		'degree': 'Bachelor\'s degree, Telecommunications Engineering',
-		'meta': 'HCMC Uniersity of Technology',
-		'time': '2006 - 2011'
+    {
+		'degree': 'Earned credits towards graduate engineer\
+        <ul class="list-unstyled interests-list"><div class="time"><p class="text-light"><li>Course of study in mechanical engineering</li></p></div></ul>',
+		'meta': 'Paderborn University',
+		'time': 'Oct 1985 - Oct 1988'
 	}
 ]
 
