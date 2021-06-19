@@ -89,7 +89,7 @@ EXPERIENCES = [
 EDUCATIONS = [
 	{
 		'degree': 'Earned Credits towards state examination, first degree\
-        <li>Course of study in teaching geography and music</li>',
+        <ul class="list-unstyled interests-list"><div class="time"><p class="text-light"><li>Course of study in teaching geography and music</li></p></div></ul>',
 		'meta': 'Paderborn University',
 		'time': 'Oct 1988 - May 1992'
 	},
