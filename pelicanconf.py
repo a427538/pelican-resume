@@ -24,7 +24,7 @@ PHONE = '(+49) 1631645275'
 LINKEDIN = 'karlstich'
 GITHUB = 'a427538'
 
-GITHUB_URL = 'https://github.com/a427538/pelican-resume'
+# GITHUB_URL = 'https://github.com/a427538/pelican-resume'
 
 CAREER_SUMMARY = 'Current Cloud Architect at AtoS. An enthusisiastic veteran, 25+ years of advanced Linux experience, hungry to embracing open source software.\
                   Participant at Red Hat Partner Enablement Openshift Curriculum (Consultant Track), advanced knowledge of private, public and hybrid clouds.\
@@ -86,6 +86,16 @@ EXPERIENCES = [
             <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
             <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
             </ul>'
+	}
+]
+
+VOLUNTEER_EXPERIENCES = [
+	{
+		'job_title': 'EASA Flight Instructor (Private Pilot)',
+		'time': 'Mar 2014 – PRESENT',
+		'company': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.',
+		'details': '<li>Hold an ICAO Level 5 certificate of aviation language competency in English</li>\
+                    <li>Hold an EASA Flight Instructor Rating</li>'	
 	}
 ]
 

@@ -1,0 +1,12 @@
+{% if VOLUNTEER_EXPERIENCES %}
+<div class="education-container container-block">
+<h2 class="container-block-title">Education</h2>
+{% for volunteer-experience in VOLUNTEER_EXPERIENCES %}
+    <div class="item">
+	    <h4 class="degree">{{ volunteer-experience['degree'] }}</h4>
+	    <h5 class="meta">{{ volunteer-experience['meta'] }}</h5>
+	    <div class="time">{{ volunteer-experience['time'] }}</div>
+	</div><!--//item-->
+{% endfor %}
+</div><!--//education-container-->
+{% endif %}
