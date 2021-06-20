@@ -1,12 +1,12 @@
 {% if VOLUNTEER_EXPERIENCES %}
-<div class="education-container container-block">
-<h2 class="container-block-title">Education</h2>
-{% for volunteer-experience in VOLUNTEER_EXPERIENCES %}
+<div class="volunteer-container container-block">
+<h2 class="container-block-title">Volunteer Experience</h2>
+{% for experience in VOLUNTEER_EXPERIENCES %}
     <div class="item">
-	    <h4 class="degree">{{ volunteer-experience['degree'] }}</h4>
-	    <h5 class="meta">{{ volunteer-experience['meta'] }}</h5>
-	    <div class="time">{{ volunteer-experience['time'] }}</div>
+	    <h4 class="degree">{{ experience['degree'] }}</h4>
+	    <h5 class="meta">{{ experience['meta'] }}</h5>
+	    <div class="time">{{ experience['time'] }}</div>
 	</div><!--//item-->
 {% endfor %}
-</div><!--//education-container-->
+</div><!--//volunteer-container-->
 {% endif %}
