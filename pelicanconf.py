@@ -91,11 +91,22 @@ EXPERIENCES = [
 
 VOLUNTEER_EXPERIENCES = [
 	{
-		'job_title': 'EASA Flight Instructor (Private Pilot)',
+		'degree': 'EASA Flight Instructor (Private Pilot)\
+        <ul class="list-unstyled interests-list"><div class="time"><p class="text-light">\
+            <li>Hold an ICAO Level 5 certificate of aviation language competency in English</li>\
+            <li>Hold an EASA Flight Instructor Rating</li>\
+        </p></div></ul>',
 		'time': 'Mar 2014 – PRESENT',
-		'company': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.',
-		'details': '<li>Hold an ICAO Level 5 certificate of aviation language competency in English</li>\
-                    <li>Hold an EASA Flight Instructor Rating</li>'	
+		'meta': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.',
+	},
+    {
+		'degree': '2nd Chairman\
+        <ul class="list-unstyled interests-list"><div class="time"><p class="text-light">\
+            <li>membership management and administration</li>\
+            <li>website hosting and webmaster</li>\
+        </p></div></ul>',
+		'time': 'Mar 2009 – Mar 2013',
+		'meta': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.',
 	}
 ]
 
