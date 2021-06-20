@@ -106,13 +106,14 @@ EDUCATIONS = [
 
 PROJECTS = [
 	{
-		'title': 'Alarm/Alert System',
+		'title': 'Electricity supplier / Redispatch 2.0 / Netzausbaubeschleunigungsgesetz (NABEG)',
 		'tagline': {
+            'digitalen Plattform Maßnahmen zur Netzstabilisierung über alle Netzebenen hinweg zu koordinieren. Dieser neue integrierte Ansatz soll es künftig allen Netzbetreibern ermöglichen, Anlagen, die auf Verteilnetzebene angeschlossen sind, zur Netzstabilisierung einzusetzen. Konkret geht es um Redispatch, also die Anpassung der Leistungseinspeisung bei regionalen Überlastungen im Netz.'
 			'Develop tools with Slack Webhook Integration to monitor product services such as alarm database, alarm renewal certification, service up/down and auto-healing'
 		}
 	},
 	{
-		'title': 'High Availability Core MiddleWare Application',
+		'title': 'Siemens EDIFACT',
 		'tagline': {
 			'Develop Multi-blade service configuration and Multi-blade software management based on OpenSAF source code which provides high availability.'
 		}
@@ -131,6 +132,7 @@ LANGUAGES = [
 ]
 
 INTERESTS = [
-	'General Aviation',
-	'Music - Soul-Musician (Trumpet) in various Rhythm \'n Soul Bands'
+	'Music - Soul-Musician (Trumpet) in various Rhythm \'n Soul Bands',
+    'General Aviation',
+    'Gardening'
 ]
