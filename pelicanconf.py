@@ -97,7 +97,7 @@ VOLUNTEER_EXPERIENCES = [
             <li>Hold an EASA Flight Instructor Rating</li>\
         </p></div></ul>',
 		'time': 'Mar 2014 – PRESENT',
-		'meta': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.',
+		'meta': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.'
 	},
     {
 		'degree': '2nd Chairman\
@@ -106,7 +106,7 @@ VOLUNTEER_EXPERIENCES = [
             <li>website hosting and webmaster</li>\
         </p></div></ul>',
 		'time': 'Mar 2009 – Mar 2013',
-		'meta': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.',
+		'meta': 'Aero-Club Luftsportgemeinschaft Paderborn e.V.'
 	}
 ]
 
