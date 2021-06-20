@@ -29,7 +29,7 @@ GITHUB = 'a427538'
 CAREER_SUMMARY = 'Current Cloud Architect at AtoS. An enthusisiastic veteran, 25+ years of advanced Linux experience, hungry to embracing open source software.\
                   Participant at Red Hat Partner Enablement Openshift Curriculum (Consultant Track), advanced knowledge of private, public and hybrid clouds.\
                   Deep understanding in deploying and maintaining applications running on Google Cloud Platform and AWS Cloud Services as well as Container Runtime Environments (Openshift, kubernetes, docker).\
-                  Strong experience in Automation (ansible/terraform) as well as CI/CD (Gitlab/Jenkins), monitoring and site-reliability.'
+                  Strong experience in Automation (ansible/terraform) as well as CI/CD (Gitlab/Jenkins/Google Cloud Build), monitoring and site-reliability.'
 
 SKILLS = [
 	{
@@ -78,13 +78,43 @@ EXPERIENCES = [
             <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
             </ul>'
 	},
-		{
+	{
 		'job_title': 'Senior Consultant',
 		'time': 'Jun 2007 – Jul 2011',
 		'company': 'Siemens AG (Siemens IT Solution and Services)',
 		'details': '<ul>\
             <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
             <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            </ul>'
+	},
+    {
+		'job_title': 'Software Engineer',
+		'time': 'Oct 2000 – May 2007',
+		'company': 'Siemens Business Services GmbH & Co. OHG',
+		'details': '<ul>\
+            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
+            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            </ul>'
+	},
+    {
+		'job_title': 'Business Travel Consultant',
+		'time': 'Oct 1997 – Sep 2000',
+		'company': 'Hapag-Lloyd Business Travel',
+		'details': '<ul>\
+            <li>advanced skills in journey pricing and ticketing</li>\
+            <li>Lufthansa Handling Agent</li>\
+            <li>advanced skills in Global Distribution Systems \'AMADEUS\'</li>\
+            </ul>'
+	},
+    {
+		'job_title': 'Travel Consultant & Destination Manager (USA)',
+		'time': 'May 1992 – Sep 1997',
+		'company': 'Voyage Reiseorganisation GmbH',
+		'details': '<ul>\
+            <li>Earned International Air Transport Association (IATA) Diploma</li>\
+            <li>Destination Manager/Tourguide U.S. destinations</li>\
+            <li>IT Administration, use of Global Distribution Systems \'AMADEUS\' and \'SABRE\'</li>\
+            <li>Software modifications and maintenance of flight database and CRM</li>\
             </ul>'
 	}
 ]
