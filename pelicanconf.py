@@ -69,8 +69,11 @@ EXPERIENCES = [
 		'job_title': 'Cloud Architect',
 		'time': 'Nov 2019 – PRESENT',
 		'company': 'AtoS Information Technology GmbH',
-		'details': '<li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
-                    <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>'	
+		'details': '<ul>\
+            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
+            <li>Agile Legacy System Modernization, AWS Cloud Services (Swarovski, Wattens(AT) )</li>\
+            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            </ul>'	
 	},	
 	{
 		'job_title': 'Senior Consultant',
@@ -78,7 +81,9 @@ EXPERIENCES = [
 		'company': 'AtoS Information Technology GmbH',
 		'details': '<ul>\
             <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
+            <li>Agile Legacy System Modernization, AWS Cloud Services (Swarovski, Wattens(AT) )</li>\
             <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            <li>Trained and supported the trainers of authorities and organizations with security tasks (BOS), (public sector)</li>\
             </ul>'
 	},
 	{
@@ -86,8 +91,8 @@ EXPERIENCES = [
 		'time': 'Jun 2007 – Jul 2011',
 		'company': 'Siemens AG (Siemens IT Solution and Services)',
 		'details': '<ul>\
-            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
-            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            <li>Responsible for major parts of the UNIX, Solaris and Linux system components of turnkey data centers including rollout (German Armed Forces)</li>\
+            <li>Integrated military C2-Systems (command and control), IT-Security, VPN, Solaris, Linux, Windows (German Armed Forces/NATO)</li>\
             </ul>'
 	},
     {
@@ -95,8 +100,11 @@ EXPERIENCES = [
 		'time': 'Oct 2000 – May 2007',
 		'company': 'Siemens Business Services GmbH & Co. OHG',
 		'details': '<ul>\
-            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
-            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
+            <li>Integrated military C2-Systems (command and control), IT-Security, VPN, Solaris, Linux, Windows (German Armed Forces)</li>\
+            <li>Implemented a Web-Portal for booking of events and travel services, Vignette, Oracle, J2EE, Hibernate, Struts, Eclise (Autostadt Wolfsburg)</li>\
+            <li>Integrated Subversion (SVN) in customer development processes, consulting, training (EW Energy)</li>\
+            <li>Implemented a WEB/WAP/mobile location based services application, J2EE, MS-SQL-Server, JBoss, own template framework</li>\
+            <li>Implemented a WEB/WAP application, last minute ticket sale and mobile ticketing, J2EE, Websphere (Lufthansa/Siemens)</li>\
             </ul>'
 	},
     {
@@ -161,22 +169,29 @@ EDUCATIONS = [
 PROJECTS = [
 	{
 		'title': 'Electricity supplier / Redispatch 2.0 / Netzausbaubeschleunigungsgesetz (NABEG)',
-		'tagline': {
-            'digitalen Plattform Maßnahmen zur Netzstabilisierung über alle Netzebenen hinweg zu koordinieren. Dieser neue integrierte Ansatz soll es künftig allen Netzbetreibern ermöglichen, Anlagen, die auf Verteilnetzebene angeschlossen sind, zur Netzstabilisierung einzusetzen. Konkret geht es um Redispatch, also die Anpassung der Leistungseinspeisung bei regionalen Überlastungen im Netz.'
-			'Develop tools with Slack Webhook Integration to monitor product services such as alarm database, alarm renewal certification, service up/down and auto-healing'
+		'tagline': {            
+            'Multicloud, AWS, Azure, Multi-Cluster RedHat Openshift 4'
+			'VPN, Transit Gateway, API Gateway, keycloak, OpenID-Connect'
 		}
 	},
     {
-		'title': 'Deploying confidential Container Runtime (Kubernetes) in \'Bundescloud\' for public sector customer',
+		'title': 'Confidential Container Runtime (Kubernetes) in \'Bundescloud\' and \'Google Cloud Platform\' for public sector customer',
 		'tagline': {
-            'digitalen Plattform Maßnahmen zur Netzstabilisierung über alle Netzebenen hinweg zu koordinieren. Dieser neue integrierte Ansatz soll es künftig allen Netzbetreibern ermöglichen, Anlagen, die auf Verteilnetzebene angeschlossen sind, zur Netzstabilisierung einzusetzen. Konkret geht es um Redispatch, also die Anpassung der Leistungseinspeisung bei regionalen Überlastungen im Netz.'
-			'Develop tools with Slack Webhook Integration to monitor product services such as alarm database, alarm renewal certification, service up/down and auto-healing'
+            'AirGapped Deployment based on chained Nexus servers'
+			'RHEL 7 instances, GCP, terraform, ansible, kubespray'
+            'kafka, elasticsearch, kibana'
 		}
 	},
 	{
 		'title': 'Siemens EDIFACT',
 		'tagline': {
-			'Develop Multi-blade service configuration and Multi-blade software management based on OpenSAF source code which provides high availability.'
+			'CI/CD Pipelines, Gitlab, Jenkins, Source2Image, Helm-Charts, Nexus, Openshift 3'
+		}
+	},
+    {
+		'title': 'ArGUS https://argus-projekt.de',
+		'tagline': {
+            'Google Cloud, Azure CosmosDB, NodeJS, machine learning, IoT, MQTT'
 		}
 	}
 ]
