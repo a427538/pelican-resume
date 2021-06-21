@@ -54,7 +54,7 @@ SKILLS = [
 		'type': 'TOOLS',
 		'list': [
 			'Postgresql, MariaDB, MySQL, MongoDB, Redis, Cassandra, pgAdmin',
-			'VSCode, Gitlab, Github, Jenkins, Ansible, Terraform, Portainer, Traefic',
+			'VSCode, Gitlab, Github, Jenkins, Ansible, Terraform, Portainer, Traefik',
 			'ElasticSearch, Splunk, Kibana, Fluentd/Fluentbit, Grafana, InfluxDB, Prometheus',
 			'Bitbucket, Bamboo, Jira, Confluence'
 		]
@@ -81,10 +81,11 @@ EXPERIENCES = [
 		'time': 'Aug 2011 – Oct 2019',
 		'company': 'AtoS Information Technology GmbH',
 		'details': '<ul>\
+            <li>Earned certification \'Google Cloud Professional Cloud Architect\' - Apr. 2019, recertification in progress</li>\
             <li>Responsible for supporting, refining, and delivering Agile Legacy System Modernization, AWS Cloud Services (Swarovski, Wattens(AT) )</li>\
             <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
             <li>Trained and supported the trainers of authorities and organizations with security tasks (BOS), (public sector)</li>\
-            </ul><br/><br/>'
+            </ul><br/>'
 	},
 	{
 		'job_title': 'Senior Consultant',
@@ -170,16 +171,13 @@ PROJECTS = [
 	{
 		'title': 'Electricity supplier / Redispatch 2.0 / Netzausbaubeschleunigungsgesetz (NABEG)',
 		'tagline': {            
-            'Multicloud, AWS, Azure, Multi-Cluster RedHat Openshift 4'
-			'VPN, Transit Gateway, API Gateway, keycloak, OpenID-Connect'
+            'Multicloud, AWS, Azure, Multi-Cluster RedHat Openshift 4, VPN, Transit Gateway, API Gateway, keycloak, OpenID-Connect'
 		}
 	},
     {
-		'title': 'Confidential Container Runtime (Kubernetes) in \'Bundescloud\' and \'Google Cloud Platform\' for public sector customer',
+		'title': 'Confidential Container Runtime Environment (Kubernetes) in \'Bundescloud\' and \'Google Cloud Platform\' for public sector customer',
 		'tagline': {
-            'AirGapped Deployment based on chained Nexus servers'
-			'RHEL 7 instances, GCP, terraform, ansible, kubespray'
-            'kafka, elasticsearch, kibana'
+            'AirGapped Deployment based on chained Nexus servers, RHEL 7 instances, GCP, terraform, ansible, kubespray, kafka, elasticsearch, kibana'
 		}
 	},
 	{
