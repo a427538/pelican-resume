@@ -23,7 +23,7 @@ EMAIL = 'stich.karl@gmail.com'
 PHONE = '(+49) 1631645275'
 LINKEDIN = 'karlstich'
 GITHUB = 'a427538'
-WEBSITE = 'https://bit.ly/3zLKQV5'
+WEBSITE = 'https\://bit.ly/3zLKQV5'
 
 # GITHUB_URL = 'https://github.com/a427538/pelican-resume'
 
