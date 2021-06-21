@@ -26,6 +26,8 @@ GITHUB = 'a427538'
 
 # GITHUB_URL = 'https://github.com/a427538/pelican-resume'
 
+QRCODE = 'qrcode_cloudrunservice-tqpavvxr5q-ez.a.run.app.png'
+
 CAREER_SUMMARY = 'Current Cloud Architect at AtoS. An enthusisiastic veteran, 25+ years of advanced Linux experience, hungry to embracing open source software.\
                   Participant at Red Hat Partner Enablement Openshift Curriculum (Consultant Track), advanced knowledge of private, public and hybrid clouds.\
                   Deep understanding in deploying and maintaining applications running on Google Cloud Platform and AWS Cloud Services as well as Container Runtime Environments (Openshift, kubernetes, docker).\
