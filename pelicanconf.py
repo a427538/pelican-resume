@@ -15,6 +15,7 @@ SITENAME = 'Resume Karl Stich'
 
 #Profile information
 NAME = 'Karl Stich'
+ADDRESS = 'Im Spiringsfelde 19, 33098 Paderborn, Germany'
 TAGLINE = 'Cloud Architect'
 PIC = 'profile.png'
 
