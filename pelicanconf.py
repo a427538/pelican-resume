@@ -70,9 +70,9 @@ EXPERIENCES = [
 		'time': 'Nov 2019 – PRESENT',
 		'company': 'AtoS Information Technology GmbH',
 		'details': '<ul>\
+            <li>Evaluated emerging infrastructure technology and provide design and architecture consulting support</li>\
+            <li>Knowledge of cloud computing and web based product development and testing</li>\
             <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
-            <li>Agile Legacy System Modernization, AWS Cloud Services (Swarovski, Wattens(AT) )</li>\
-            <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
             </ul>'	
 	},	
 	{
@@ -80,11 +80,10 @@ EXPERIENCES = [
 		'time': 'Aug 2011 – Oct 2019',
 		'company': 'AtoS Information Technology GmbH',
 		'details': '<ul>\
-            <li>Conducted research with partners on an assistance system for situation-aware defense of dangers by drones - Google Cloud, AWS, NodeJS, machine learning, IoT</li>\
-            <li>Agile Legacy System Modernization, AWS Cloud Services (Swarovski, Wattens(AT) )</li>\
+            <li>Responsible for supporting, refining, and delivering Agile Legacy System Modernization, AWS Cloud Services (Swarovski, Wattens(AT) )</li>\
             <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
             <li>Trained and supported the trainers of authorities and organizations with security tasks (BOS), (public sector)</li>\
-            </ul>'
+            </ul><br/>'
 	},
 	{
 		'job_title': 'Senior Consultant',
