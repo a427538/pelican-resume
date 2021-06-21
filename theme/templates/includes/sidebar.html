@@ -36,7 +36,6 @@
 
             {% if WEBSITE %}
             <li class="website"><i class="fa fa-globe"></i><a href="https://{{WEBSITE}}" target="_blank">https://{{WEBSITE}}</a></li>
-            <li class="text-light">deployed on Google Cloud Run</li>
             <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{% if QRCODE %}{{ QRCODE }}{% else %}qrcode.png{% endif %}" alt="qr code" />
             {% endif %}            
             
