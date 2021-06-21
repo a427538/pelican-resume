@@ -83,7 +83,7 @@ EXPERIENCES = [
             <li>Responsible for supporting, refining, and delivering Agile Legacy System Modernization, AWS Cloud Services (Swarovski, Wattens(AT) )</li>\
             <li>Deployed various dockerized apps on private cloud with Docker-Swarm, docker-compose for internal use</li>\
             <li>Trained and supported the trainers of authorities and organizations with security tasks (BOS), (public sector)</li>\
-            </ul><br/>'
+            </ul><br/><br/>'
 	},
 	{
 		'job_title': 'Senior Consultant',
