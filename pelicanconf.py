@@ -32,7 +32,7 @@ QRCODE = 'qrcode_cloudrunservice-tqpavvxr5q-ez.a.run.app.png'
 CAREER_SUMMARY = 'Current Cloud Architect at AtoS. An enthusisiastic veteran, 25+ years of advanced Linux experience, hungry to embracing open source software.\
                   Participant at Red Hat Partner Enablement Openshift Curriculum (Consultant Track), advanced knowledge of private, public and hybrid clouds.\
                   Deep understanding in deploying and maintaining applications running on Google Cloud Platform and AWS Cloud Services as well as Container Runtime Environments (Openshift, kubernetes, docker).\
-                  Strong experience in Automation (ansible/terraform) as well as CI/CD (Gitlab/Jenkins/Google Cloud Build), monitoring and site-reliability.'
+                  Strong experience in Automation (ansible/terraform) as well as CI/CD (Git*/Bamboo/Google Cloud Build/Jenkins), monitoring and site-reliability.'
 
 SKILLS = [
 	{
@@ -161,6 +161,13 @@ EDUCATIONS = [
 PROJECTS = [
 	{
 		'title': 'Electricity supplier / Redispatch 2.0 / Netzausbaubeschleunigungsgesetz (NABEG)',
+		'tagline': {
+            'digitalen Plattform Maßnahmen zur Netzstabilisierung über alle Netzebenen hinweg zu koordinieren. Dieser neue integrierte Ansatz soll es künftig allen Netzbetreibern ermöglichen, Anlagen, die auf Verteilnetzebene angeschlossen sind, zur Netzstabilisierung einzusetzen. Konkret geht es um Redispatch, also die Anpassung der Leistungseinspeisung bei regionalen Überlastungen im Netz.'
+			'Develop tools with Slack Webhook Integration to monitor product services such as alarm database, alarm renewal certification, service up/down and auto-healing'
+		}
+	},
+    {
+		'title': 'Deploying confidential Container Runtime (Kubernetes) in \'Bundescloud\' for public sector customer',
 		'tagline': {
             'digitalen Plattform Maßnahmen zur Netzstabilisierung über alle Netzebenen hinweg zu koordinieren. Dieser neue integrierte Ansatz soll es künftig allen Netzbetreibern ermöglichen, Anlagen, die auf Verteilnetzebene angeschlossen sind, zur Netzstabilisierung einzusetzen. Konkret geht es um Redispatch, also die Anpassung der Leistungseinspeisung bei regionalen Überlastungen im Netz.'
 			'Develop tools with Slack Webhook Integration to monitor product services such as alarm database, alarm renewal certification, service up/down and auto-healing'
