@@ -88,7 +88,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .profile {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
@@ -96,7 +96,7 @@ p {
   vertical-align: middle;
 }
 .sidebar-wrapper .contact-list li {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
@@ -112,7 +112,7 @@ p {
   font-size: 16px;
   font-weight: 700;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 .sidebar-wrapper .degree {
   font-size: 14px;
@@ -120,7 +120,7 @@ p {
   margin-bottom: 5px;
 }
 .sidebar-wrapper .education-container .item {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 .sidebar-wrapper .education-container .item:last-child {
   margin-bottom: 0;
@@ -230,10 +230,10 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 .skillset .item {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
   overflow: hidden;
 }
 .skillset .level-title {
@@ -304,7 +304,7 @@ used for profile image
 */
 .profile-img {
   max-width: 100px;
-  margin-bottom: 15px;
+  margin-bottom: 13px;
   border: 0px solid #fff;
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);

@@ -88,7 +88,7 @@ p {
 }
 
 .sidebar-wrapper .profile {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 
 .sidebar-wrapper .contact-list .svg-inline--fa {
@@ -98,7 +98,7 @@ p {
 }
 
 .sidebar-wrapper .contact-list li {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 
 .sidebar-wrapper .contact-list li:last-child {
@@ -118,7 +118,7 @@ p {
   font-size: 16px;
   font-weight: 700;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 
 .sidebar-wrapper .degree {
@@ -128,7 +128,7 @@ p {
 }
 
 .sidebar-wrapper .education-container .item {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 
 .sidebar-wrapper .education-container .item:last-child {
@@ -265,11 +265,11 @@ p {
 }
 
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
 }
 
 .skillset .item {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
   overflow: hidden;
 }
 
