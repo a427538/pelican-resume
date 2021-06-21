@@ -22,10 +22,6 @@
             <li class="phone"><i class="fa fa-phone"></i><a href="tel:012 345 6789">012 345 6789</a></li>
             {% endif %}
             
-            {% if WEBSITE %}
-            <li class="website"><i class="fa fa-globe"></i><a href="https://{{WEBSITE}}" target="_blank">https://{{WEBSITE}}</a></li>
-            {% endif %}
-            
             {% if LINKEDIN %}
             <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/{{LINKEDIN}}" target="_blank">linkedin.com/in/{{LINKEDIN}}</a></li>
             {% else %}
@@ -37,18 +33,18 @@
             {% else %}
             <li class="github"><i class="fa fa-github"></i><a href="http://github.com/sharu725" target="_blank">github.com/sharu725</a></li>
             {% endif %}
+
+            {% if WEBSITE %}
+            <li class="website"><i class="fa fa-globe"></i><a href="https://{{WEBSITE}}" target="_blank">https://{{WEBSITE}}</a></li>
+            <li class="text-light">deployed on Google Cloud Run</li>
+            <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{% if QRCODE %}{{ QRCODE }}{% else %}qrcode.png{% endif %}" alt="qr code" />
+            {% endif %}            
             
         </ul>
     </div><!--//contact-container-->
    {% include 'includes/education.html' %}
    {% include 'includes/language.html' %}
    {% include 'includes/interests.html' %}
-   <!-- {% include 'includes/about.html' %} -->
-   
-   <div class="qrcode-container container-block">
-    <h2 class="container-block-title">Online resume</h2>
-    <div class="time"><p class="text-light">deployed on Google Cloud Run</p></div>
-    <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{% if QRCODE %}{{ QRCODE }}{% else %}qrcode.png{% endif %}" alt="qr code" />
-   </div><!--//qrcode-container-->
+   {% include 'includes/about.html' %}
     
 </div><!--//sidebar-wrapper-->
